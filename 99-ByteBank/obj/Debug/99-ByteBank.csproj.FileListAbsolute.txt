@@ -1,0 +1,6 @@
+C:\Users\Beda\source\repos\AprendendoPOO\ByteBank\99-ByteBank\bin\Debug\99-ByteBank.exe.config
+C:\Users\Beda\source\repos\AprendendoPOO\ByteBank\99-ByteBank\bin\Debug\99-ByteBank.exe
+C:\Users\Beda\source\repos\AprendendoPOO\ByteBank\99-ByteBank\bin\Debug\99-ByteBank.pdb
+C:\Users\Beda\source\repos\AprendendoPOO\ByteBank\99-ByteBank\obj\Debug\99-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Beda\source\repos\AprendendoPOO\ByteBank\99-ByteBank\obj\Debug\99-ByteBank.exe
+C:\Users\Beda\source\repos\AprendendoPOO\ByteBank\99-ByteBank\obj\Debug\99-ByteBank.pdb
