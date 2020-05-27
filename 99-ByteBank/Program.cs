@@ -43,6 +43,8 @@ namespace _99_ByteBank
             Console.WriteLine("Saldo: " + contaDeBernardo.saldo);
 
             Console.ReadLine();
+            //Teste GIT
+            Console.ReadLine();
         }
     }
 }
